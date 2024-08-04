@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ishalz.Web.Server", "Ishalz.Web.Server\Ishalz.Web.Server.csproj", "{AE8EA46B-A61A-4ACC-B360-43964CB8944C}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "ishalz.web.client", "ishalz.web.client\ishalz.web.client.esproj", "{BCCA6A6F-6C45-4F69-B0F0-376255E90405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE8EA46B-A61A-4ACC-B360-43964CB8944C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8EA46B-A61A-4ACC-B360-43964CB8944C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8EA46B-A61A-4ACC-B360-43964CB8944C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8EA46B-A61A-4ACC-B360-43964CB8944C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCCA6A6F-6C45-4F69-B0F0-376255E90405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCA6A6F-6C45-4F69-B0F0-376255E90405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCA6A6F-6C45-4F69-B0F0-376255E90405}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BCCA6A6F-6C45-4F69-B0F0-376255E90405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCA6A6F-6C45-4F69-B0F0-376255E90405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCCA6A6F-6C45-4F69-B0F0-376255E90405}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {079D0D7A-FA62-41D4-BB10-98183E8D5003}
+	EndGlobalSection
+EndGlobal
