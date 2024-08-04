@@ -1,0 +1,6 @@
+@Ishalz.Web.Server_HostAddress = http://localhost:5175
+
+GET {{Ishalz.Web.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
